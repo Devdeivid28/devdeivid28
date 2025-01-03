@@ -110,20 +110,9 @@ Me chamo Deivid Kauan Nogueira de Souza, tenho 19 anos e sou natural de Alagoas.
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Devdeivid28&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdeivid28&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Devdeivid28&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devdeivid28&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+</a>
