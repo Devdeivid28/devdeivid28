@@ -18,6 +18,14 @@ Me chamo Deivid Kauan Nogueira de Souza, tenho 19 anos e sou natural de Alagoas.
 
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"      
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -80,14 +88,7 @@ Me chamo Deivid Kauan Nogueira de Souza, tenho 19 anos e sou natural de Alagoas.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"      
-/>
+
 
 <br/>
 <br/>
