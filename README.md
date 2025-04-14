@@ -1,6 +1,6 @@
 # Olá! eu sou o Deivid Souza 👨🏽‍💻
 
-**`Desenvolvedor Em Descobrimento`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Deivid Kauan Nogueira de Souza, tenho 19 anos e sou natural de Alagoas. Concluí o ensino médio no IFAL, com o curso técnico em informática Para Internet. Atualmente, estou tentando engressar em uma graduação e no mercado de trabalho. Sou apaixonado por tecnologia, e quero seguir carreira nessa área.
 
