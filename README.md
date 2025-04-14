@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Deivid Kauan Nogueira de Souza, tenho 19 anos e sou natural de Alagoas. Concluí o ensino médio no IFAL, com o curso técnico em informática Para Internet. Atualmente, estou tentando engressar em uma graduação e no mercado de trabalho. Sou apaixonado por tecnologia, e quero seguir carreira nessa área.
+Me chamo Deivid Kauan Nogueira de Souza, tenho 19 anos e sou natural de Alagoas. Concluí o ensino médio no IFAL, com o curso técnico em informática Para Internet. Atualmente, estou cursando Sistemas para Internet na UNCISAL, e tentando engresar no mercado de trabalho. Sou apaixonado por tecnologia, e quero seguir carreira nessa área.
 
 
 [![GMAIL](    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](devdeivid5@gmail.com)
